@@ -1,8 +1,8 @@
 # Refraction Simulator
 
 This application provides a real-time 3-D environment for demonstrating refraction and total internal reflection.
-It can be used in classroom demonstrations and potentially for setting Physics questions involving Snell&rsquo;s law.
-It&rsquo;s also just fun to play with.
+It can be used in classroom demonstrations and potentially for setting Physics questions involving Snell’s law.
+It’s also just fun to play with.
 
 ## How it works
 
@@ -20,8 +20,8 @@ If you need the simplicity of two dimensions then you can turn off perspective m
 
 ## Getting Started
 
-Running the program is as simple as downloading the RefractionSimulator.jar file and running it with Java 7 or newer. If you&rsquo;re lucky, that just means double-clicking the JAR file.
-If that doesn&rsquo;t work you can try running the Run.bat file.
+Running the program is as simple as downloading the RefractionSimulator.jar file and running it with Java 7 or newer. If you’re lucky, that just means double-clicking the JAR file.
+If that doesn’t work you can try running the Run.bat file.
 From the commandline you can run the program with this command:
 ```
 java -jar RefractionSimulator.jar
