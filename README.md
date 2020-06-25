@@ -35,14 +35,18 @@ If you want more detailed instructions you can read the [user manual](documents/
 
 ## Background
 
-This application was created as an A-level Computing project in 2015.
+This application was created as an A-level Computing project in 2014-2015.
 In the interest of receiving more credit and learning about 3-D manipulation and rendering, I decided to implement the graphics from scratch.
 One could no doubt improve performance and get flashier graphics by using popular 3-D libraries, but I think doing it myself was more interesting and rewarding.
 So perhaps other people can also learn a bit about 3-D graphics from looking at this project and extending it.
 
 The [PDF documents](documents) go into detail about the original purpose of this project, its design, manual testing, and appraisal.
 
-The source code has not been altered since 2015 but has now been released on GitHub in 2020.
+The source code has not been altered since 2015 but has now been released online in 2020.
+But feel free to contribute or request features and bug fixes if you feel like it.
+
+* GitHub: <https://github.com/willplatt/refraction-simulator/>
+* Bitbucket: <https://bitbucket.org/WillPlatt/refraction-simulator/>
 
 ## License
 
